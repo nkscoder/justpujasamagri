@@ -1,0 +1,14 @@
+.jigoshop .addons .form-group {
+    width: 100%!important;
+    margin-bottom: 15px!important;
+    position: relative;
+}
+.jigoshop .addons input[type="text"], .jigoshop .addons input[type="file"], .jigoshop .addons textarea {
+    width: 100%!important;
+}
+.jigoshop .addons input[type="file"], .jigoshop .addons textarea {
+    height: auto;
+}
+.jigoshop .addons .select2-container {
+    display: block;
+}

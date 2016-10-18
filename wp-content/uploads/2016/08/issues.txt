@@ -1,0 +1,5 @@
+1. for the amount below 500/-, we are charging 50 Rs as shipping. On checkout page, its showing as radio button Inline image 1 . It should n't be radio button, otherwise customer will change it before making final payment
+
+2. After making successful payment using netbanking and debit card, page is redirected to weird page ( blank page)
+
+3. 

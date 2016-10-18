@@ -1,0 +1,92 @@
+/*
+
+Theme Name: Bazaar Lite
+Theme URI: https://www.themeinprogress.com/bazaar-free-ecommerce-wordpress-theme/
+Description: Bazaar Lite is our new creative and minimal ecommerce WordPress theme. Perfect to manage a shop using WooCommerce plugin or a blog, it offers a fully responsive layout to be displayed on every kind of device. With the latest version, you can display an optional slideshow on homepage.
+Author: Theme in Progress.
+Author URI: https://themeinprogress.com
+Version: 1.2.6
+Tags: blue, green, orange, purple, red, yellow, light, one-column, two-columns, left-sidebar, right-sidebar, custom-background, post-formats, theme-options, translation-ready, responsive-layout
+Text Domain: bazaar-lite
+Domain Path: /languages
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Bazaar Lite WordPress Theme, Copyright 2016 Theme in Progress
+Bazaar Lite is distributed under the terms of the GNU GPL v3
+
+*/
+
+
+.wpcf7 textarea  {
+  height: 50px;
+  width: 300px;
+}
+
+#vfb-3 {
+dispaly:none !important;
+}
+
+.vfb-item-secret{
+display: none !important;
+}
+
+.yith-ajaxsearchform-container{
+margin-top : 7px; 
+}
+
+#yith-searchsubmit{
+background-color : #fff;
+color : #333;
+border:0px ;
+border-radius:2px;
+padding-left:10px;
+padding-right:10px;
+-webkit-transition:color 0.2s ease-out , background-color 0.2s ease-out;
+transition: color 0.2s ease-out , background-color 0.2s ease-out;
+}
+
+#yith-searchsubmit:hover{
+color:#1abca5;
+background-color: #f5f5f5;
+}
+
+.product-title{
+font-size: 1.0em !important;
+}
+
+body.logged-in #header{top:0px !important;}
+
+ #yith-s 
+{
+    border: none !important;
+    border-radius: 3px !important;
+    padding: 2px 4px !important;
+}
+
+ #vfb-31
+{
+    width:100%!important;
+}
+
+#vfb-32{
+    width:100%!important;
+}
+#vfb-33{
+    width:100%!important;
+}
+.sub-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+.edu_success_payment{
+	padding: 100px 0;
+	background-color: #F7F7F7;
+	margin: 0 !important;
+}
+
+.edu_success_payment_link{
+	font-size: 18px;
+}
+
